@@ -22,7 +22,7 @@ Using jQuery or vanilla JS you will display each 'USER' in a table. When the use
 
 ## Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://dnnysng.github.io/ksense-code-challenge/)
 
 ## Screenshots
 
